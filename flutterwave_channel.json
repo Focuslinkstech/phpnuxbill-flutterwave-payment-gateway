@@ -1,0 +1,23 @@
+[
+
+	{
+		"id": "card",
+		"name": "Card Payment"
+	},
+	{
+		"id": "ussd",
+		"name": "USSD"
+	},
+	{
+		"id": "account",
+		"name": "Bank Account"
+	},
+	{
+		"id": "banktransfer",
+		"name": "Bank Transfer"
+	},
+	{
+		"id": "nqr",
+		"name": "QR payment"
+	}
+]
