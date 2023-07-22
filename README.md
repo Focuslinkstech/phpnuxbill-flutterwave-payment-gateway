@@ -1,4 +1,4 @@
-# Flutterwave Payment gateway
+# Phpnuxbill Flutterwave Payment Gateway
 
 Flutterwave is a Nigerian fintech company that provides a payment infrastructure for global merchants and payment service providers across the continent.
 ## installation
