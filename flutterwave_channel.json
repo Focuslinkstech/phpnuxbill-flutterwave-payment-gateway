@@ -19,5 +19,17 @@
 	{
 		"id": "nqr",
 		"name": "QR payment"
+	},
+	{
+		"id": "mpesa",
+		"name": "M-Pesa"
+	},
+	{
+		"id": "mobilemoneyghana",
+		"name": "Mobile money Ghana"
+	},
+	{
+		"id": "credit",
+		"name": "Credit payment"
 	}
 ]
